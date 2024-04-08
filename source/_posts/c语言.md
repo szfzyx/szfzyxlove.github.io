@@ -1,8 +1,5 @@
 ---
 title: Study
-date: 
-categories:
-- c/cpp NOTES
 top: true
 ---
 	c语言里面表示n的多少次方应该使用cmath中的pow()函数，pow(x,y)中x代表底数，y代表指数；
